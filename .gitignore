@@ -189,3 +189,4 @@ cython_debug/
 .idea/
 !/hw5/data/
 !/hw2/data/
+!/hw4/data/
